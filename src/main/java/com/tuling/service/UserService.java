@@ -18,5 +18,6 @@ public class UserService {
     public static void main(String[] args) {
 
         UserService demo = new UserService("a");
+        System.out.println(demo.o);
     }
 }
