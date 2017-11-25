@@ -33,4 +33,9 @@ public class UserService {
     public void setUser() {
     	
     }
+    
+
+    public void updateUser() {
+    	
+    }
 }
