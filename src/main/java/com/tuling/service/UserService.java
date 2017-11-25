@@ -29,4 +29,8 @@ public class UserService {
     	System.out.println("dev add getUser()");
     	System.out.println("sdf");
     }
+    
+    public void setUser() {
+    	
+    }
 }
