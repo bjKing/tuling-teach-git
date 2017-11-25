@@ -38,4 +38,8 @@ public class UserService {
     public void updateUser() {
     	
     }
+    
+    public void editUser() {
+    	
+    }
 }
