@@ -20,4 +20,8 @@ public class UserService {
         UserService demo = new UserService("a");
         System.out.println(demo.o);
     }
+    
+    public void deleteUser() {
+    	System.out.println("dsf");
+    }
 }
