@@ -20,4 +20,9 @@ public class UserService {
         UserService demo = new UserService("a");
         System.out.println(demo.o);
     }
+    
+    public void getUser() {
+    	System.out.println("dev add getUser()");
+    	System.out.println("sdf");
+    }
 }
