@@ -24,4 +24,9 @@ public class UserService {
     public void deleteUser() {
     	System.out.println("dsf");
     }
+    
+    public void getUser() {
+    	System.out.println("dev add getUser()");
+    	System.out.println("sdf");
+    }
 }
