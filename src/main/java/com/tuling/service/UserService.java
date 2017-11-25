@@ -39,7 +39,4 @@ public class UserService {
     	
     }
     
-    public void editUser() {
-    	
-    }
 }
