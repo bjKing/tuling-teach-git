@@ -30,8 +30,4 @@ public class UserService {
     	System.out.println("sdf");
     }
     
-    public void setUser() {
-    	
-    }
-    
 }
